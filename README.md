@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **DorDorFN**
+# 👋 Hi there, I'm **DorDor**
 
 <img src="https://github.com/zerofnvps-source/config/blob/main/Screenshot%202025-11-26%20153624.png?raw=true" width="40%" style="float:left; margin-right:10px;" />
 

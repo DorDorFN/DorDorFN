@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm **DorDorFN**
 
-<p align="center">
-  <img src="https://github.com/zerofnvps-source/config/blob/main/Screenshot%202025-11-26%20153624.png?raw=true" width="50%" />
-</p>
+<img src="https://github.com/zerofnvps-source/config/blob/main/Screenshot%202025-11-26%20153624.png?raw=true" width="40%" style="float:left; margin-right:10px;" />
 
 ---
 
@@ -49,4 +47,3 @@
 
 ## 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=DorDorFN&show_icons=true&theme=radical)
-

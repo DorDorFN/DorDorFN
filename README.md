@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **DorDorFN**
 
 <p align="center">
-  <img src="https://github.com/zerofnvps-source/config/blob/main/Screenshot%202025-11-26%20153624.png?raw=true" width="100%" />
+  <img src="https://github.com/zerofnvps-source/config/blob/main/Screenshot%202025-11-26%20153624.png?raw=true" width="50%" />
 </p>
 
 ---

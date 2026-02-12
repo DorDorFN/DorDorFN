@@ -46,4 +46,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorDorFN&show_icons=true&theme=radical&cache_seconds=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorDorFN&show_icons=true&theme=radical)
+
+ ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=DorDorFN&count_private=true&theme=radical&show_icons=true)
